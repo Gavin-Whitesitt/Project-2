@@ -1,7 +1,8 @@
 # Project-2
 Project #2 for Stat 517 at the University of Idaho. 
 
-In problem #0 the salary of a job is predicted based off of several categorical and text variables from Glassdoor.com. 
+In problem #0 the salary of a job is predicted based off of several categorical and text variables. Based on a project for Data Mining at the University of Southampton. The aim is to predict a job's salary with statistical learning, based on information within a job advert.
+The main dataset consists of roughly 250k rows representing individual job ads, and a set of variables descriptions about each job ad.
 
 In Problem #1 unsupervised learning methods are used. PCA, clustering analysis, assosiation and seriation are performed. The idea of this project is to determine whether or not the Happiness rankings given by the World Happiness Report are justified. 
 
